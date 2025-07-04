@@ -1,0 +1,29 @@
+# Steps Performed for Free VPN Usage and Speed Test
+
+1. Installed Proton VPN (Free Plan)
+2. Connected to the fastest free server (Japan - JP-FREE#30)
+3. Checked IP before VPN:
+   - IPv4: 152.58.188.254
+   - Location: Muzaffarpur, Bihar, India
+4. Checked IP after VPN:
+   - IPv4: 149.88.103.41
+   - Location: Tokyo, Japan
+5. Run speed test before VPN:
+   - Download: 37 Mbps
+   - Upload: 950 Kbps
+   - Latency: 36 ms (unloaded)
+6. Run speed test after VPN:
+   - Download: 2.6 Mbps
+   - Upload: 1.7 Mbps
+   - Latency: 181 ms (unloaded)
+7. Verified traffic was encrypted via Proton VPN interface
+
+# Observations:
+- IP successfully changed after VPN connection
+- Internet speed dropped significantly with VPN (common with free servers)
+- Latency increased due to routing traffic via Japan server
+- VPN provided basic privacy by masking original IP
+
+# Conclusion:
+Free VPN is effective for masking IP but comes with speed trade-offs. Useful for privacy but not ideal for high-speed tasks like streaming or gaming.
+
