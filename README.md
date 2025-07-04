@@ -47,7 +47,5 @@ This project demonstrates how to use **Proton VPN (Free Version)** to mask your 
 - Some websites may block VPN IP ranges
 - Free plans have limited server options
 
----
 
-## 📂 Project Structure
 
